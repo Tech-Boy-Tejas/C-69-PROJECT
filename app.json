@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "BarcodeScanner_C-69-Project",
+    "slug": "BarcodeScanner_C-69-Project",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.tejas_123.BarcodeScanner_C69Project"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
